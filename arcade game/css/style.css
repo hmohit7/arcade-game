@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+p.directions {
+	color: grey;
+	font-family: helvetica;
+}
+
+h1 {
+	color: green;
+	margin: 0px; /*Removes bult in margin to pull game closer to header*/
+	font-family: helvetica;
+}
